@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://promptowl.ai/LOGO_HEAD.webp" alt="PromptOwl" height="72">
+  <img src="https://raw.githubusercontent.com/PromptOwl/.github/main/profile/logo.webp" alt="PromptOwl" width="360">
 </p>
-
-<h1 align="center">PromptOwl</h1>
 
 <p align="center"><strong>Every AI your team uses should already know your business — and you should be able to prove what it knows.</strong></p>
 
